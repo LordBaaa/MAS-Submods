@@ -1,10 +1,1 @@
-Install:
-Just drop into the game folder
-
-Controls:
-Copy (CTRL +C)
-Paste (CTR: + V
-Cut (CTRL + X
-Select All (CTRL + A)
-Sub-Select CTRL + Left_Arrow/Right Arrow 
-
+Allows you to use the paste command in MAS by using the CTRL + V shortcut.
